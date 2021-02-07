@@ -1,6 +1,6 @@
 # ETHDenver-live
 
-##@ Contains source code for the ETHDenver live coding session.
+## Contains source code for the ETHDenver live coding session.
 
 ### How to use:
 
